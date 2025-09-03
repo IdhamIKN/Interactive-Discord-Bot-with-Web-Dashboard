@@ -78,7 +78,7 @@ Semoga harimu menyenangkan!
 
 ### 1. Jalankan Bot
 ```bash
-python enhanced_discord_bot.py
+python dc.py
 ```
 
 ### 2. Konfigurasi Channel
